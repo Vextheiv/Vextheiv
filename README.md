@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Vextheiv/Vextheiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+%#****%##********************###***#%
+%%%#**#%%##******---+*****##%%%#*##%%
+%%%#**++===****=-:::--+***====+*+#%%%
+%%%%%*=-::--=**=-:::--+*==-::-=+#%%%%
+%%%%%%%*=-::::::::::::::::::=+%%%%%%%
+%%%#=*%+:::::------------::::=%#=*%%%
+%%=---=-:::==##********#==-::-=-:-=#%
+%%=-:::::--*#%#===--==*%##---::::-=#%
+%%#+---:::---=----:-::-=----::---=#%%
+#*=-----::---=-:::::::-=----:------*#
+#*=-----::---=-:::::::-=----:--=---*#
+%%#+---:::---=--::::::-=----::---=#%%
+%%=-:::-:--*#%#==----=*%##--::-::-=#%
+%%==:-=-:::==**********#==-::-=-:-=#%
+%%%#=*%+::::-------------::::=%#=*%%%
+%%%%%%%*=-:::::::::::::::::-=+%%%%%%%
+%%%%%*=-::--=*+=-:::--+*=--::-=+%%%%%
+%%%#**++===****=-:::--+***====+**#%%%
+%%%#**#%%##******=--+*****##%%%#*##%%
+%%****%###******************##%#***#%
+```
 
-Here are some ideas to get you started:
+### [hunters union ↗](https://discord.gg/BSeVTgjA6t)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>Best 2B2T Hunting Guides</sub>
+
+---
+
+[![now playing](https://spotify-github-profile.kittinanx.com/api/view?uid=ppsndwjl4o5kb60cpo627dqla&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&bar_color=b8b8b8&bar_color_cover=false)](https://open.spotify.com/user/ppsndwjl4o5kb60cpo627dqla)
+
+[spotify ↗](https://open.spotify.com/user/ppsndwjl4o5kb60cpo627dqla)
+
+<sub>discord / stoat — VexTheIV</sub>
+
+</div>
