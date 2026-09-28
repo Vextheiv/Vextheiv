@@ -4,7 +4,7 @@
   <img src="./hunters-union.svg" width="380" alt="Hunters Union ASCII art">
 </a>
 
-### [hunters union ↗](https://discord.gg/BSeVTgjA6t)
+### [Hunters Union ↗](https://discord.gg/BSeVTgjA6t)
 
 <sub>Best 2B2T Hunting Guides</sub>
 
